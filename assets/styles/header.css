@@ -42,6 +42,8 @@
     display: none;
     position: absolute; 
     top: 100%; 
+
+    width: 60vw; /*aumentando o branco do menu pra ficar perto do coracaozinho*/ 
 }
 
 .container__botao:checked~.lista-menu { /*pra quando eu clicar aparecer a lista do menu ja que tirei em lista-menu none*/
@@ -49,8 +51,26 @@
 }
 
 
-.lista-menu__titulo{}
+.lista-menu__titulo{
+    color: var(--laranja);
+}
 
-.lista-menu__item{}
+.lista-menu__item{
+    
+}
 
-.lista-menu__link{}
+.lista-menu__titulo, .lista-menu__item{
+    padding: 1em;
+    background-color: var(--branco);
+}
+
+.lista-menu__link{
+
+    /*informações pega do figma mesmo (inspect)*/
+    background: var(--azul-degrade);
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    text-transform: uppercase;
+}
