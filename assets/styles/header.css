@@ -3,6 +3,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    position: relative;
 }
 
 .container{
@@ -17,9 +19,38 @@
     background-image: url("../img/Menu.svg");
     background-image: no-repeat;
     background-position: center;
-    display: inline-block; /*se fosse so o inline nao ia permetir que eu alterasse a altura (width)*/
 }
 
 .container__imagem{
     padding: 1em;
 }
+
+/*---Parte do Menu*/
+.container__botao {
+    
+}
+
+.cabecalho__menu-hamburguer {
+
+}
+
+.container__imagem{
+
+}
+
+.lista-menu{
+    display: none;
+    position: absolute; 
+    top: 100%; 
+}
+
+.container__botao:checked~.lista-menu { /*pra quando eu clicar aparecer a lista do menu ja que tirei em lista-menu none*/
+    display: block;
+}
+
+
+.lista-menu__titulo{}
+
+.lista-menu__item{}
+
+.lista-menu__link{}
