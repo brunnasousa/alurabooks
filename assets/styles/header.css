@@ -27,23 +27,19 @@
 
 /*---Parte do Menu*/
 .container__botao {
-    
+    display: none; /*tirando o check para nao aparecer*/
 }
 
-.cabecalho__menu-hamburguer {
+.cabecalho__menu-hamburguer {}
 
-}
-
-.container__imagem{
-
-}
+.container__imagem{}
 
 .lista-menu{
     display: none;
     position: absolute; 
     top: 100%; 
 
-    width: 60vw; /*aumentando o branco do menu pra ficar perto do coracaozinho*/ 
+    width: 60vw; /*aumentando o branco do menu pra ficar perto do coracaozinho - passando um pouco da metade da tela*/ 
 }
 
 .container__botao:checked~.lista-menu { /*pra quando eu clicar aparecer a lista do menu ja que tirei em lista-menu none*/
@@ -53,11 +49,10 @@
 
 .lista-menu__titulo{
     color: var(--laranja);
+    font-weight: 700;
 }
 
-.lista-menu__item{
-    
-}
+.lista-menu__item{}
 
 .lista-menu__titulo, .lista-menu__item{
     padding: 1em;
