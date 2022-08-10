@@ -15,6 +15,7 @@
 ## 💻 Sobre o projeto
 
 - o usuario escolhe qual livro ele deseja.
+- Projeto feito seguindo exemplo do mobile-first.
 
 ## 🛠 Ferramentas
 
