@@ -32,6 +32,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - #EB9B00 -> laranja
 - linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%) -> azul-degrade
 - "Poppins" -> fonte-principal
+-- #002F52 -> azul;
 
 ## 📖 Layout
 
