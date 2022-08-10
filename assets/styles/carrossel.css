@@ -57,7 +57,8 @@
 }
 
 .descricao__texto {
-    font-size: 14px;   
+    font-size: 14px;  
+    margin: 2em 0; 
 }
 
 /* 2º linha */
@@ -80,4 +81,19 @@
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
+}
+
+
+
+.descricao_imagem-estrelas{
+    margin-top: 0.2em;
+    padding-bottom: 0.5em;
+}
+
+.descricao__texto-segundario{
+    
+}
+
+.descricao__titulo-livro-secundario{
+    margin: 1em 0px;
 }
