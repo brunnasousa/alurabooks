@@ -2,6 +2,8 @@
 @import url("./assets/styles/banner.css");
 @import url("./assets/styles/carrossel.css");
 @import url("./assets/styles/topicos.css");
+@import url("./assets/styles/contato.css");
+
 
 :root {
     --cor-de-fundo: #EBECEE; 
@@ -20,3 +22,13 @@ body{
     font-weight: 400;
 }
 
+
+/*para o degrade azul em titulo
+
+    background: var(--azul-degrade);
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+
+*/
