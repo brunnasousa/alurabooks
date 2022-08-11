@@ -14,8 +14,8 @@
 
 ## 💻 Sobre o projeto
 
-- o usuario escolhe qual livro ele deseja.
 - Projeto feito seguindo exemplo do mobile-first.
+- Site de divulgação do Alura Books: revendedora de livros educacionais de: Programação, Front-End, InfraEstrutura, Busisness e Design & UX.
 
 ## 🛠 Ferramentas
 
@@ -32,7 +32,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - #EB9B00 -> laranja
 - linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%) -> azul-degrade
 - "Poppins" -> fonte-principal
--- #002F52 -> azul;
+- #002F52 -> azul;
 
 ## 📖 Layout
 

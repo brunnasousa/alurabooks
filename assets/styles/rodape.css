@@ -9,3 +9,23 @@ hr {
 
 .rodape__titulo {}
 
+.rodape__link{
+    margin-top: 0.8em;
+    font-size: 14px;
+    color: var(--azul);
+    text-decoration: none;
+}
+
+/*
+@media screen (max-width: 1024px) {
+
+    .rodape__link::placeholder{
+        background: var(--azul-degrade);
+        -webkit-background-clip: text; 
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    
+        cursor: pointer;
+    }
+}
+*/

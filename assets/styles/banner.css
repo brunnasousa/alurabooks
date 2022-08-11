@@ -35,4 +35,6 @@
 
     background: url("../img/Lupa.svg") no-repeat;
     background-position: 1em; /*não é tao importante*/
+
+    margin-left: -2em;
 }
