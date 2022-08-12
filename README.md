@@ -28,13 +28,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🎨 Paleta de cor
 
 - #FFFFFF; -> branco
-- #EBECEE; -> cor de fundo
+- #000000 -> preto
+- #474646 -> cinza
+- #858585 -> cinza-claro
+- #F9F9F9-> cinza-branco
 - #EB9B00 -> laranja
+- #002F52 -> azul
+- #EBECEE; -> cor de fundo
 - linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%) -> azul-degrade
 - "Poppins" -> fonte-principal
 - Josefin Sans -> fonte-secundaria
-- #002F52 -> azul
-- #000000 -> preto
 
 ## 📖 Layout
 
