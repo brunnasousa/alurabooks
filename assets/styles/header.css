@@ -91,7 +91,7 @@
 }
 
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 797px){
     .cabecalho__menu-hamburguer{
         display: none;
     }
@@ -159,14 +159,10 @@
         text-decoration: none;
         cursor: pointer;
     }
-
-    .lista-menu__titulo:focus {
-        background: var(--azul-degrade);
-    }
     
 }
 
-@media screen and (min-width: 1728px) {
+@media screen and (min-width: 1200px) {
 
     .cabecalho{
         padding: 0 2em;

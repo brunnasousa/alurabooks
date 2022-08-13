@@ -68,4 +68,4 @@ O layout da aplicação está disponível no Figma:
 
 ## 👀 Observações Importantes
 
-* Certificado pela [Alura](https://cursos.alura.com.br/user/brunnad68) - HTML e CSS: responsividade com mobile-first.
+* Certificado pela [Alura](https://cursos.alura.com.br/user/brunnad68/course/html-css-responsividade-mobile-first/certificate) - HTML e CSS: responsividade com mobile-first.

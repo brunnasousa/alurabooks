@@ -29,9 +29,9 @@
     text-decoration: none;
 }
 
-@media screen and (min-width:  1024px){
+@media screen and (min-width:  797px){
     .topicos {
-        padding: 2em 0;
+        padding: 2em 8em;
     }
     
     .topicos__titulo{
@@ -45,8 +45,8 @@
     
 }
 
-@media screen and (min-width: 1078px) {
+@media screen and (min-width: 1200px) {
     .topicos {
-        padding: 3em 32vw;
+        padding: 3em 25vw;
     }
 }

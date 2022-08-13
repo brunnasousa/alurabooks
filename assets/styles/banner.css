@@ -39,7 +39,7 @@
     margin-left: -2em;
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 797px){
 
     .banner {
         padding: 6em 2em;
@@ -54,7 +54,7 @@
     }
 
     .banner__pesquisa{
-        width: 50%;
+        width: 60%;
     }
 
     .banner__pesquisa::placeholder{
@@ -62,14 +62,14 @@
     }
 }   
 
-@media screen and (min-width: 1728px) {
+@media screen and (min-width: 1200px) {
 
     .banner{
         padding: 6em 0;
     }
 
     .banner__pesquisa {
-        width: 35%;
+        width: 50%;
     }
 
     .banner__pesquisa::placeholder{

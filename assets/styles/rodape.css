@@ -22,7 +22,7 @@ hr {
     display: none;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 797px) {
     .rodape{
         display: flex;
         justify-content: space-around;
@@ -60,7 +60,7 @@ hr {
 
 
 
-@media screen and (min-width: 1728px) {
+@media screen and (min-width: 1200px) {
 
     .rodape {
         padding: 3em 0;
