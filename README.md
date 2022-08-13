@@ -10,7 +10,9 @@
 
 <p>O Projeto está hospedado pelo GitHub Pages e você pode acessar pelo <a href="https://brunnasousa.github.io/alurabooks/" target="_blank" rel="external">link.</a> </p>
 
-- link principal: https://brunnasousa.github.io/alurabooks/
+- link principal: https://bit.ly/alura-books
+
+- link alternativo: https://brunnasousa.github.io/alurabooks/
 
 ## 💻 Sobre o projeto
 

@@ -70,7 +70,10 @@
     display: none;
 }
 
-
+/*ajustando pra não aparecer as configurações do 1728px*/
+.container_texto{
+    display: none;
+}
 
 
 @media screen and (min-width: 1024px){
@@ -120,6 +123,30 @@
     .opcoes__botao:checked~.lista-menu {
         display: block;
         width: auto;
+    }
+    
+}
+
+@media screen and (min-width: 1728px) {
+
+    .cabecalho{
+        padding: 0 2em;
+    }
+
+    .opcoes{
+        margin-right: auto;
+    }
+
+    .container__link{
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: var(--preto);
+    }
+
+    /*ajustando pra  aparecer as configurações do 1728px*/
+    .container_texto{
+        display: block;
     }
 
     
