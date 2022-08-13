@@ -13,6 +13,21 @@
 
 }
 
+ /*pseudo-classes e combinadores*/
+.container__botao:checked~.container__rotulo>.cabeçalho__menu-hamburguer{
+    background-image: url("../img/Menu Aberto.svg");
+}
+
+.container__botao:checked~.container__rotulo {
+    background: var(--azul-degrade);
+}
+
+.container__rotulo{
+    padding: 2.2em 1em;
+}
+
+/*ate aqui*/
+
 .cabecalho__menu-hamburguer{
     width: 24px;
     height: 24px;
@@ -123,6 +138,30 @@
     .opcoes__botao:checked~.lista-menu {
         display: block;
         width: auto;
+    }
+
+    /*pseudo-classes e combinadores*/
+    .opcoes__botao:checked~.opcoes__rotulo>.opcoes__item{
+        background: var(--azul-degrade);
+        color: var(--branco);
+    }
+
+    .opcoes__item {
+        padding: 2em 1em;
+    }
+
+    .lista-menu__item:hover {
+        background: var(--azul-degrade);
+    }
+
+    .lista-menu__item:hover>.lista-menu__link { 
+        -webkit-text-fill-color: var(--branco);
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .lista-menu__titulo:focus {
+        background: var(--azul-degrade);
     }
     
 }
