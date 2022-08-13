@@ -16,7 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-- Projeto feito seguindo exemplo do mobile-first, responsividade trabalhada com: 428px, 1024px e 1728px.
+- Projeto feito seguindo exemplo do mobile-first, responsividade trabalhada com: 428px, 797px e 1200px.
 - Site de divulgação do Alura Books: revendedora de livros educacionais de: Programação, Front-End, InfraEstrutura, Busisness e Design & UX.
 
 ## 🛠 Ferramentas
@@ -59,12 +59,14 @@ O layout da aplicação está disponível no Figma:
         <img src="https://avatars.githubusercontent.com/brunnasousa" width="150px;" alt="brunna sousa Github Photo"/><br>
         <sub> 
           <b>Feito com ❤️ por Brunna Sousa 😄</b><br>
-          <b>Entre em contato. <a href=https://www.linkedin.com/in/brunna-sousa/" target="_blank" rel="external"></a> </b>
+          <b>Entre em contato. <a href="https://www.linkedin.com/in/brunna-sousa/" target="_blank" rel="external"></a> </b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
+
+* Link do meu portfolio com todos meus [projetos](https://brunnasousa.github.io/portfolio_brunnasousa/) 
 
 ## 👀 Observações Importantes
 
